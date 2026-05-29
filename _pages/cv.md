@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-# 📄 [👉 Click Here to Download My Full CV (PDF) 👈](/CV.pdf)
+# 📄 [👉 Click Here to Download My Full CV (PDF) 👈](https://raw.githubusercontent.com/jiangyu67/jiangyu67.github.io/master/assets/IIIT_Vadodara_Resume.pdf))
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
