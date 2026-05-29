@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+# 📄 [👉 Click Here to Download My Full CV (PDF) 👈](/CV.pdf)
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
