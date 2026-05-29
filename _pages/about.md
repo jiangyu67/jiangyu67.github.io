@@ -10,4 +10,4 @@ I am a second year undergraduate student from [College of Intelligence and Compu
 
 I am very fortunate to be advised by [Prof. Yitao Hu](https://flashserve.org/) of TankLab from [College of Intelligence and Computing](https://cic.tju.edu.cn/), Tianjin University.
 
-You can find my CV here: [CV](../assets/IIIT_Vadodara_Resume.pdf).
+You can find my CV here: [CV](https://raw.githubusercontent.com/jiangyu67/jiangyu67.github.io/master/assets/IIIT_Vadodara_Resume.pdf)).
